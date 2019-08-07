@@ -1,2 +1,2 @@
-neutron-lib==1.18
+neutron-lib==1.25
 graphviz
