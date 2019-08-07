@@ -15,4 +15,8 @@ pip install -r requirements.txt
 ./graph.py [FILENAME]
 ```
 
+## Output
+
+![example](./img/example.svg "Output example")
+
 Thanks @lukapeschke ;)
